@@ -39,6 +39,6 @@ export const Gallery = () => {
       </div>
     </div>
   </div>
-  </div>
+  </div>  kjhkj
   )
 }
